@@ -64,5 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Zammad is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://zammad.com/
+Zammad provides an AI‑powered service platform for customer support, helpdesk and IT operations. It centralises communication across channels, adds AI‑driven efficiency, and offers a free trial for teams of any size. The platform combines human expertise with automation to deliver seamless support experiences.
+
+**Areas:** Company · Support · Helpdesk · AI · Customer-Service · Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://zammad.com/)
+- [Documentation](https://docs.zammad.com/)
+- [Getting started](https://zammad.com/en/getting-started)
+- [Pricing](https://zammad.com/en/pricing)
+- [Support](https://support.zammad.com/help/en-us/3)
+- [Changelog](https://zammad.com/en/product/releases)
+- [Blog](https://zammad.com/en/blog)
+- [Security](https://zammad.com/en/product/features/security)
+- [Terms of service](https://zammad.com/en/company/terms)
+- [Privacy policy](https://zammad.com/en/company/privacy)
+- [GitHub](https://github.com/zammad)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/zammad/](https://apis.io/providers/zammad/).
